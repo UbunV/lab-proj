@@ -1,1 +1,4 @@
-project HelloWorld; begin writeln('Hello World') end.
+project HelloWorld;
+begin
+  writeln('Hello World')
+end.
